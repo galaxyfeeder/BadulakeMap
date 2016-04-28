@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Badulake Map</string>
+
+    <string name="probably_closed">Probably closed</string>
+    <string name="probably_opened">Probably opened</string>
+    <string name="always_opened">Announced as always opened</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3390829016396377/7783044048</string>
+</resources>
